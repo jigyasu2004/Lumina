@@ -2,6 +2,8 @@
 
 **Lumina Readers** is a premium, bilingual digital reading platform designed to bring immersive sci-fi and philosophical literature to the web. It focuses on a distraction-free reading experience, bridging the gap between modern technology and timeless storytelling.
 
+🌐 **[Launch Live App](https://ai.studio/apps/drive/176_k3BoK_OnNej0FJXWB8i3IJbhhbCwX?fullscreenApplet=true)**
+
 ## 🌟 Features
 
 - **Bilingual Support**: Seamlessly toggle between **English** and **Hindi** for all stories and interface elements.
